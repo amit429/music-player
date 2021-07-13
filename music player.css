@@ -1,0 +1,135 @@
+body{
+   display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: monospace;
+    text-align: center;
+    padding: 30px;
+}
+
+main{
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+div{
+   
+    width: 25%;
+    height: 150px;
+    border: 1px solid green;
+}
+
+.a{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.b{
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.c{
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.d{
+    background-image: url(4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.e{
+    background-image: url(5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.f{
+    background-image: url(6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.g{
+    background-image: url(7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.h{
+    background-image: url(8.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+.i{
+    background-image: url(9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
